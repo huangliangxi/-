@@ -1,5 +1,9 @@
+#!/usr/bin/python3
+# -*-coding:utf-8 -*-
+# Author:Eminjan
+# @Time  :2018/5/14 21:31
 # 定时抓取消息，发送到微信群
-# author:hweitao123@163.com
+# 
 # date:2018-08-08
 
 import urllib.request
