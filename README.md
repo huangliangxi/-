@@ -1,3 +1,1 @@
-# 2020_xinxin
-
-感谢前辈总结的经验，我将在前辈总结经验的基础上学习完善，备战2020工作。
+面试相关在这个里面:https://github.com/huangliangxi/2020_xinxin/tree/master/2020_campus_apply
